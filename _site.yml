@@ -1,4 +1,5 @@
 name: "Itai-Trilnick"
+output_dir: "."
 navbar:
   title: "Itai Trilnick"
   left:
