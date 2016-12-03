@@ -1,0 +1,19 @@
+name: "Itai-Trilnick"
+navbar:
+  title: "Itai Trilnick"
+  left:
+    - text: ""
+      icon: fa-home
+      href: index.html
+  
+  right:
+   - text: "Contact"
+     href: contact.html
+      
+output:
+  html_document:
+    theme: "readable"
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
