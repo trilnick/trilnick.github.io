@@ -1,5 +1,6 @@
 name: "Itai-Trilnick"
 output_dir: "."
+self_contained: "TRUE"
 navbar:
   title: "Itai Trilnick"
   left:
