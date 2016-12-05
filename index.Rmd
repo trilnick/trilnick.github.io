@@ -1,5 +1,11 @@
 ---
-title: "Hello Website!"
+title: "Welcome!"
 ---
 
-My website is under construction. Come back soon to see an updated version.
+I am a Ph.D. candidate at the Agricultural and Resource Economics department at UC Berkeley. I'm interested in agriculture, energy, the environment, and the links between them. I'm also interested in public and labor economics.
+
+You can download my <a href="trilnick-cv.pdf" target="_blank">CV here</a>.
+
+This is me on a good day:
+
+![](Itai_Trilnick.jpg)

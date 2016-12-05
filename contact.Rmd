@@ -2,4 +2,4 @@
 title: "Contact Information"
 ---
 
-I can be reached at itai.trilnick \<a\>t berkeley.edu 
+I can be reached at itai.trilnick at berkeley.edu 

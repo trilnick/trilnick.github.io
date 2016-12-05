@@ -6,6 +6,12 @@ navbar:
     - text: ""
       icon: fa-home
       href: index.html
+    
+    - text: "Research"
+      href: research.html
+      
+    - text: "Code"
+      href: code.html
   
   right:
    - text: "Contact"
