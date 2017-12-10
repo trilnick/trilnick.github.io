@@ -8,4 +8,4 @@ You can download my <a href="trilnick-cv.pdf" target="_blank">CV here</a>.
 
 This is me on a good day:
 
-![Photo by <a href="https://are.berkeley.edu/users/edward-rubin" target="_blank">Ed Rubin</a>](Itai_Trilnick.jpg)
+![Photo by <a href="http://edrub.in/" target="_blank">Ed Rubin</a>](Itai_Trilnick.jpg)

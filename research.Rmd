@@ -40,7 +40,8 @@ I have a masters degree in environmental studies. In my thesis, I focused on sol
 
 **Abstract:** Conventional wisdom often holds that relatively high consumption levels among the affluent contributes to the generation of high volumes of municipal solid waste (MSW). Comparing data from different cities in Israel suggests otherwise. Regression analysis reveals that aggregate per-capita waste outputs of cities are only vaguely correlated with their socio-economic indicators. In fact, the apparent ‘hedonic’ waste of the richest cities, compared with the average ones, accounts for only about 2% of the total waste production. Israel’s main economic area, the Tel Aviv district, produces a quarter more MSW per capita than other districts, suggesting a need for special attention by policy makers. A surprisingly strong predictor of MSW per capita is water consumption by municipalities, dedicated for public gardening. The trimmings of the municipal landscape constituting an unobserved fraction of total MSW data, are estimated to be responsible for 15% of Israel’s MSW, making it an additional target area for consideration and intervention.
 
-Trilnick, Itai, and Alon Tal. ["Should we blame the rich for clogging our landfills?"](http://wmr.sagepub.com/content/32/2/91.short), *Waste Management & Research* 32.2 (2014): 91-96.
+Trilnick, Itai, and Alon Tal. <a href="http://wmr.sagepub.com/content/32/2/91.short" target="_blank">"Should we blame the rich for clogging our landfills?"</a>, *Waste Management & Research* 32.2 (2014): 91-96.
+
 
 <a href="trilnick2014should.pdf" target="_blank">draft-<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 
@@ -50,6 +51,6 @@ Trilnick, Itai, and Alon Tal. ["Should we blame the rich for clogging our landfi
 
 **Abstract:** What factors influence the waste policy of local authorities? While central governments make efforts to promote recycling, the major players in municipal waste management are local authorities. This paper explores the factors influencing waste policies of local authorities in Israel in light of the new landfill tax legislated in 2007. Based on interviews with officials overseeing waste management and other stakeholders, a model of waste policy making in local authorities is proposed. A survey among waste officials of local authorities then evaluates the influence of general and specific factors on associated municipal policies. Cost of landfilling and a new landfill tax, is reported as highly influential on waste policies. Other factors, such as the Mayor's motivation, managerial capacity in the municipality, and recycling markets are also highly influential. While the cost of landfilling is easily targeted by the central government, the latter factors are seldom addressed. 
 
-Trilnick, Itai, and Alon Tal. ["What Drives Municipal Solid Waste Policy Making? An Empirical Assessment of the Effectiveness of Tipping Fees and Other Factors in Israel."](http://www.ingentaconnect.com/content/jswt/jswt/2014/00000040/00000004/art00008) The Journal of Solid Waste Technology and Management 40.4 (2014): 364-374.
+Trilnick, Itai, and Alon Tal. <a href="http://www.ingentaconnect.com/content/jswt/jswt/2014/00000040/00000004/art00008" target="_blank">"What Drives Municipal Solid Waste Policy Making? An Empirical Assessment of the Effectiveness of Tipping Fees and Other Factors in Israel."</a>, *The Journal of Solid Waste Technology and Management* 40.4 (2014): 364-374.
 
 <a href="trilnick2014whatdrives.pdf" target="_blank">draft-<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
