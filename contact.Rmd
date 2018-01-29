@@ -1,5 +1,9 @@
 ---
 title: "Contact Information"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
 
 I can be reached at itai.trilnick [at] berkeley.edu 
