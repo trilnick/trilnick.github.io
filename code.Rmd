@@ -1,6 +1,9 @@
 ---
 title: "Code"
-output: html_document
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
 
 **bunchr** is an <a href=" https://CRAN.R-project.org/package=bunchr" target="_blank">R package</a> for bunching analysis. It also includes **bunchApp**, an interactive simulator for exploring bunching and elasticity estimation. Bunching is a phenomenon where many individuals self select to a specific point in the range of some variable (e.g. earnings) because of some incentive discontinuity (e.g. marginal tax rate change). In such case, a histogram will show a "bunch" - observable excess mass otherwise unexpected - at that point. In economic literature, it is used to recognize a behavioral response to change in incentives, and estimate structural parameters (e.g. elasticity of earnings w.r.t. marginal tax rate).
