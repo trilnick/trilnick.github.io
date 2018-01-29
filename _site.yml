@@ -1,26 +1,25 @@
-name: "Itai-Trilnick"
-output_dir: "."
+name: Itai-Trilnick
+output_dir: '.'
 navbar:
-  title: "Itai Trilnick"
+  title: Itai Trilnick
   left:
-    - text: ""
-      icon: fa-home
-      href: index.html
-    
-    - text: "Research"
-      href: research.html
-      
-    - text: "Code"
-      href: code.html
-  
+  - text: ''
+    icon: fa-home
+    href: index.html
+  - text: Research
+    href: research.html
+  - text: Code
+    href: code.html
   right:
-   - text: "Contact"
-     href: contact.html
-      
+  - text: Contact
+    href: contact.html
 output:
   html_document:
-    theme: "readable"
+    theme: readable
     highlight: textmate
     include:
       after_body: footer.html
     css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
