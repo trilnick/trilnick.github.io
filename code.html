@@ -22,7 +22,9 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113155737-1"></script>
     <script>
@@ -100,6 +102,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -220,6 +225,11 @@ $(document).ready(function () {
 </div>
 
 
+<p><br></p>
+<div id="section" class="section level1 tabset tabset-fade tabset-pills">
+<h1></h1>
+<div id="bunchr" class="section level2">
+<h2>bunchr</h2>
 <p><strong>bunchr</strong> is an <a href=" https://CRAN.R-project.org/package=bunchr" target="_blank">R package</a> for bunching analysis. It also includes <strong>bunchApp</strong>, an interactive simulator for exploring bunching and elasticity estimation. Bunching is a phenomenon where many individuals self select to a specific point in the range of some variable (e.g. earnings) because of some incentive discontinuity (e.g. marginal tax rate change). In such case, a histogram will show a “bunch” - observable excess mass otherwise unexpected - at that point. In economic literature, it is used to recognize a behavioral response to change in incentives, and estimate structural parameters (e.g. elasticity of earnings w.r.t. marginal tax rate).</p>
 <ul>
 <li><p>The simulator can be accessed online at <a href="https://trilnick.shinyapps.io/bunchapp/" target="_blank">https://trilnick.shinyapps.io/bunchapp/</a></p></li>
@@ -231,6 +241,17 @@ bunchApp()</code></pre>
 <ul>
 <li>The development repository is hosted on <a href="https://github.com/trilnick/bunchr" target="_blank">GitHub</a></li>
 </ul>
+<hr />
+<hr />
+</div>
+<div id="minichill" class="section level2">
+<h2>miniChill</h2>
+<p>This package has a C++ implementation for calculating chill portions, an important metric in agronomy (see Fishman 1987). It is specially used for bloom prediction in fruit trees. The chill portion calculation is sequential, based on a vector of temperatures. Temperatures need to stay within a certain range for a certain time for a chill portion to “bank”. Therefore, this function cannot be vectorized. This mini package implements a chill calculation procedure in <em>R</em> embedded C++ environment (Rcpp), making chill calculation orders of magnitude faster than a normal <em>R</em> based loop.</p>
+<p>At this point, I do not intend to publish this mini package on CRAN. You can download the binary package <a href="miniChill_1.0.zip" onClick= "gtag('event', 'Downloads', {'file':'miniChill_1.0.zip'});" target="_blank"> here <i class="fa fa-file-archive-o" aria-hidden="true"></i></a> or from the <a href="https://github.com/trilnick/miniChill" target="_blank">GitHub Repository</a>, which also contains the source code. If you have Rtools installed, you can also download and automatically compile it by running the following code:</p>
+<pre class="r"><code>#install.packages(&quot;devtools&quot;)
+devtools::install.github(&#39;trilnick/miniChill&#39;)</code></pre>
+</div>
+</div>
 
 
 
