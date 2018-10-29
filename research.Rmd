@@ -16,11 +16,11 @@ I'm currently working on these projects as a PhD candidate at the Agricultural
 and Resource Economics department at UC Berkeley.
 
 ### Micro-Climate Engineering for Climate Change Adaptation in Agriculture
-#### (With David Zilberman and Benjamin Gordon)
+#### Job Market Paper
 
 Can farmers adapt to climate change by altering weather conditions on their fields? We define the concept of Micro-Climate Engineering (MCE), where farmers change the effective temperatures on their crops by means of shading or heating, and document such implementation by California pistachio growers. With rising winter temperatures in the San Joaquin Valley, pistachio growers in California could face adverse climatic conditions within 20 years. Treating dormant trees with a chemical mix, acting as a shading technology, has shown to increase winter chill count to acceptable levels. Modeling a market with heterogeneous sub-climates, we run simulations to estimate potential gains from MCE in 2030 for California pistachio. Our results show an expected yearly welfare gain ranging between $1-4 billion. Pistachio being a crop of secondary importance in California, we believe this to show the importance of MCE for climate change adaptation in agriculture.  
 
-<a href="MCE-working-paper.pdf" onClick= "gtag('event', 'Downloads', {'file':'MCE-working-paper.pdf'});" target="_blank">Working Paper <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+<a href="jmp.pdf" onClick= "gtag('event', 'Downloads', {'file':'jmp.pdf'});" target="_blank">download<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 
 ---
 
@@ -28,7 +28,7 @@ Can farmers adapt to climate change by altering weather conditions on their fiel
 #### (With Yotam Shem-Tov)
 In 2009, Israel reformed its Disability Insurance program, replacing a strict earning cap for beneficiaries with a gradual offset of benefits. This kind of program has been discussed in the US for over 20 years today. Using administrative data from Israel, the goal of this project is to estimate the effect of this reform on labor supply of beneficiaries, and on DI enrollment. Preliminary findings show strong labor supply effects on those beneficiaries who were employed prior to the reform; insignificant effect on those who didn't; and no effect on the characteristics of newly enrolled beneficiaries.
 
-*working paper to be published soon*
+*work in progress*
 
 ---
 
@@ -50,7 +50,7 @@ Trilnick, Itai, and Alon Tal. <a href="http://wmr.sagepub.com/content/32/2/91.sh
 
 
 ### What Drives Municipal Solid Waste Policy Making? An Empirical Assessment of the Effectiveness of Tipping Fees and Other Factors in Israel
-####(With Alon Tal)
+#### (With Alon Tal)
 
 **Abstract:** What factors influence the waste policy of local authorities? While central governments make efforts to promote recycling, the major players in municipal waste management are local authorities. This paper explores the factors influencing waste policies of local authorities in Israel in light of the new landfill tax legislated in 2007. Based on interviews with officials overseeing waste management and other stakeholders, a model of waste policy making in local authorities is proposed. A survey among waste officials of local authorities then evaluates the influence of general and specific factors on associated municipal policies. Cost of landfilling and a new landfill tax, is reported as highly influential on waste policies. Other factors, such as the Mayor's motivation, managerial capacity in the municipality, and recycling markets are also highly influential. While the cost of landfilling is easily targeted by the central government, the latter factors are seldom addressed. 
 
