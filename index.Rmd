@@ -6,8 +6,8 @@ I am a PhD candidate at the Agricultural and Resource Economics department at UC
 
 I'm on the job market! <a href="jmp.pdf" target="_blank">Click here to read my job market paper.</a> I'll be attending the AEA meetings in Atlanta this coming January.  If you'd like to meet there, feel free to contact me.
 
-You can download my <a href="trilnick-cv.pdf" target="_blank">CV here</a>.
+You can download my <a href="cv_itai_trilnick.pdf" target="_blank">CV here</a>.
 
-This is me on a good day:
+![Old tie-less photo will be back after the job market](photo_with_tie.jpg)
 
-![Photo by <a href="http://edrub.in/" target="_blank">Ed Rubin</a>](Itai_Trilnick.jpg)
+<!-- ![Photo by <a href="http://edrub.in/" target="_blank">Ed Rubin</a>](Itai_Trilnick.jpg) -->
