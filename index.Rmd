@@ -2,12 +2,12 @@
 title: "Welcome!"
 ---
 
-I am a PhD candidate at the Agricultural and Resource Economics department at UC Berkeley. I'm interested in agriculture, energy, the environment, and the links between them. I'm also interested in public and labor economics.
+I'm an economist and data scientist, currently working at Google. I have a PhD in Agricultural and Resource Economics from UC Berkeley, where I was doing research in agriculture, energy, the environment, and the links between them. I also did some work in in public and labor economics.
 
-I'm on the job market! Here are my <a href="itai_trilnick_cv.pdf" target="_blank">academic cv</a> and an <a href="trilnick_resume.pdf" target="_blank">industry oriented resume</a>. I have a cool job market paper on climate change and agriculture, <a href="jmp.pdf" target="_blank">click here to read it</a>.
+I created this website while on the job market, and some of the information here might not be up to date. Here are my <a href="itai_trilnick_cv.pdf" target="_blank">academic cv</a> and an <a href="trilnick_resume.pdf" target="_blank">industry oriented resume</a>. I have a cool job market paper on climate change and agriculture, <a href="jmp.pdf" target="_blank">click here to read it</a>.
 
 
 
-![Old tie-less photo will be back after the job market](photo_with_tie.jpg)
+<!-- ![Old tie-less photo will be back after the job market](photo_with_tie.jpg) -->
 
-<!-- ![Photo by <a href="http://edrub.in/" target="_blank">Ed Rubin</a>](Itai_Trilnick.jpg) -->
+![Photo by <a href="http://edrub.in/" target="_blank">Ed Rubin</a>](Itai_Trilnick.jpg)
